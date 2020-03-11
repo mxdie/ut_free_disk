@@ -1,7 +1,7 @@
 # ut_free_disk
 又来生产辣鸡了o(*￣︶￣*)o在ut刷刷刷时维护磁盘空间  
 只会删除使用本脚本注册的文件  
-没有log 没有print 无脑递归删除 胆小不要碰 _(:з」∠)_  
+没有log 没有print 无脑递归删除 甚至我自己都没测试完 胆小不要碰 _(:з」∠)_  
 
 ## 1 进入main.py
 `ut_free_disk(path:str, disk:str ,min_size:int, target_size:int)`  
